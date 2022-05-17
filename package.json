@@ -1,0 +1,29 @@
+{
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "jsonwebtoken": "^8.5.1",
+    "moongose": "^1.0.0"
+  },
+  "name": "jwt-demonstration",
+  "description": "JWT Authentication Demo",
+  "version": "1.0.0",
+  "main": "app.js",
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gaurav-Hassija/JWT-Demonstration.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gaurav-Hassija/JWT-Demonstration/issues"
+  },
+  "homepage": "https://github.com/Gaurav-Hassija/JWT-Demonstration#readme"
+}
